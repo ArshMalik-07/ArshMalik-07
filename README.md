@@ -1,13 +1,10 @@
-# Arsh-Malik
-<h1 align="center">Hi 👋, I'm Arsh Malik</h1>
-<h3 align="center">💻 Full Stack & AI Developer in Progress 🚀</h3>
----
-## 🚀 About Me:
+# About Me:
+<h5>Hi there 👋, I'm <b> Arsh Malik </b> now pursuing B.Tech in Computer Science Engineering from IEC College,Greater Noida.</h5>
 
-- 💻 Skilled in **HTML, CSS, JavaScript, C & Java**
+- 💻 Skilled in **HTML, CSS, JavaScript, Java & C**
 - 📚 Currently learning **Data Structures & Algorithms (DSA)**
-- 🤖 Interested in becoming a **Full Stack + AI Developer**
-- 🎯 Goal: To become a **successful man**
+- 🤖 Interested in becoming a **Full Stack AI Developer**
+- 🎯 Goal: To become a **successful man** in life
 - ⚡ Fun fact: I enjoy coding more than anything 😄
 ---
 ## 🛠️ Tech Stack:
@@ -15,14 +12,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,c,java,git,github" />
 </p>
----
-## 📊 GitHub Stats:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArshMalik-07&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArshMalik-07&theme=tokyonight" />
-</p>
----
 ## 🌐 Connect With Me:
 
 <p align="center">
