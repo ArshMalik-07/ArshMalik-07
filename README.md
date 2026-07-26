@@ -1,5 +1,5 @@
 <h1>💫 About Me</h1>
-<h4>Hi there! I am <strong>Arsh Malik</strong>, currently pursuing B.Tech in Computer Science Engineering from IEC College, Greater Noida.</h4>
+<h4>Hi there! I am <b>Arsh Malik</b>, currently pursuing B.Tech in Computer Science Engineering from IEC College, Greater Noida.</h4>
 
 - 💻 Skilled in **HTML, CSS, JavaScript, Java & C**
 - 📚 Currently learning **Data Structures & Algorithms (DSA)**
@@ -10,7 +10,7 @@
 ## 🛠️ Tech Stack:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,c,java,git,github" />
+  <img src="https://skillicons.dev/icons?i=java,c,html,css,javascript,git,github" />
 </p>
 
 ## 🌐 Connect With Me:
