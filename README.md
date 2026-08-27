@@ -10,7 +10,7 @@
 ## 🛠️ Tech Stack:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,c,html,css,javascript,git,github" />
+  <img src="https://skillicons.dev/icons?i=java,python,c,html,css,javascript,git,github" />
 </p>
 
 ## 🌐 Connect With Me:
