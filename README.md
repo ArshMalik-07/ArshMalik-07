@@ -3,7 +3,7 @@
 
 - 💻 Skilled in **Java, Python, C, HTML, CSS & JavaScript**
 - 📚 Currently learning **Data Structures & Algorithms (DSA)**
-- 🤖 Interested in becoming a **Full Stack AI Developer**
+- 🤖 Interested in becoming a **Full Stack Software Developer**
 - 🎯 Goal: To become a **successful man** in life
 - ⚡ Fun fact: I enjoy coding more than anything 😄
 ---
